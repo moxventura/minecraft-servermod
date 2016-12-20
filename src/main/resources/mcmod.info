@@ -1,0 +1,16 @@
+[
+{
+  "modid": "moxventuraservermod",
+  "name": "Moxventura's Server Mod",
+  "description": "Mod with several server commands",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Moxventura"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
